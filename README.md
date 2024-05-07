@@ -1,4 +1,4 @@
-# COMP426-A04
+# Travel Buddy
 ## Description
 Travel Buddy is a client-side web application that serves as a travel assistant, helping users with weather information and currency conversion for their destinations.
 
